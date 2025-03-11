@@ -18,7 +18,23 @@ The goal is automate the loan eligibility process based on customer detail provi
   - `Loan Amount` - loan approval should depend on loan amount
 
 ## 🔧 Technologies Used
-- **Python (Pandas, Seaborn, matplotlib, numpy)** (Exploratory Data Analysis)  
+- **Python (Pandas, Seaborn, matplotlib, numpy)** (Exploratory Data Analysis)
+
+  
+
+## **Store Sales and Profit Analysis**
+
+## Overview
+Store sales and profit analysis help businesses identify areas for improvement and make data-driven decisions to optimize their operations, pricing, marketing, and inventory management strategies to drive revenue and growth.
+
+## 📂 Dataset
+- **Source**: Kaggle - Superstore Dataset
+
+## 🔧 Technologies Used
+- **Python (Pandas, Plotly)** 
+
+
+
 
 
 
