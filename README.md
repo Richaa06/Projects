@@ -1,7 +1,7 @@
 
 ---
 
-## **Home Loan Approval Analysis**
+ ## 1. **Home Loan Approval Analysis**
 
 
 
@@ -22,7 +22,7 @@ The goal is automate the loan eligibility process based on customer detail provi
 
   
 
-## **Store Sales and Profit Analysis**
+## 2. **Store Sales and Profit Analysis**
 
 ## Overview
 Store sales and profit analysis help businesses identify areas for improvement and make data-driven decisions to optimize their operations, pricing, marketing, and inventory management strategies to drive revenue and growth.
@@ -34,7 +34,7 @@ Store sales and profit analysis help businesses identify areas for improvement a
 - **Python (Pandas, Plotly)**
 
   
-## **Food Delivery Cost Analysis**
+## 3. **Food Delivery Cost Analysis**
 
 ## Overview
 Food Delivery Cost and Profitability Analysis is a comprehensive evaluation aimed at understanding and optimizing the financial dynamics of a food delivery operation. The goal is to identify areas where the service can reduce costs, increase revenue, and implement pricing or commission strategies that enhance profitability. 
